@@ -1,0 +1,84 @@
+body{
+    background-image: url(../calculadora-Cientifica-main/img/fundo.jpg);
+    
+    background-repeat: repeat;
+    background-position: center top;
+    
+}
+
+h1{
+        color: aliceblue;
+        font-size: 60px;
+        text-shadow: rgb(0, 0, 0) 2px 2px;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+main {
+    margin: 10px;
+    padding: 5px 7px 5px;
+    
+}
+
+input {
+    text-align: left;
+    background-color: white;
+    width: 300px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+table {
+    
+    padding: 50px;
+    background-color: rgb(143, 142, 142);
+    border-radius: 30px;
+    border: 3px solid rgb(0, 0, 0);
+    
+   
+}
+
+.displaytable {
+    display: table;
+}
+
+.displaytable-cell {
+    display: flex;
+}
+  
+.button {
+    width: 60px;
+    height: 35px;
+    font-size: 21px;
+    border-radius: 75px;
+}
+
+.blackbutton { 
+    background-color: rgb(0, 0, 0); 
+    color: white;
+}
+
+
+
+#item1{
+    
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+#item2{
+    
+    text-align: center;
+    border: 3px black;    
+    font-weight: bold;
+    border: 0px solid rgb(0, 0, 0);
+    
+
+}
+
+
